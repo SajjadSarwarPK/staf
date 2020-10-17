@@ -1,0 +1,11 @@
+'env':
+  'dev':
+    'cloud':
+      'main_url': 'https://gorest.co.in'
+      'default_user':
+        'username': ''
+        'password': ''
+
+'ex_env_url': 'https://gorest.co.in'
+'ex_type':'cloud'
+'ex_env' : 'dev'

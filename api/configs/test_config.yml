@@ -1,0 +1,6 @@
+Get_All_Users:
+  method: GET
+  endpoint: "/public-api/users"
+  query_parameters: ""
+  headers: {'Accept':'application/json', 'Content-Type':'application/json'}
+  payload: "path_to_.json"
