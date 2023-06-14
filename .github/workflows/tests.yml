@@ -1,4 +1,4 @@
-name: pytest
+name: staf_pytest
 
 on:
   push:

@@ -1,0 +1,4 @@
+pytest==6.2.5
+pytest_bdd==3.4.0
+Requests==2.31.0
+selenium==4.10.0
